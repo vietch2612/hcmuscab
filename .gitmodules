@@ -1,0 +1,18 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vietch2612/22850034-asd-booking-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vietch2612/22850034-asd-web-admin
+[submodule "authentication-service"]
+	path = authentication-service
+	url = https://github.com/vietch2612/22850034-asd-authentication
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/vietch2612/22850034-asd-api-gateway
+[submodule "driver-app"]
+	path = driver-app
+	url = https://github.com/vietch2612/22850034-asd-driver-app
+[submodule "customer-app"]
+	path = customer-app
+	url = https://github.com/vietch2612/22850034-asd-customer-app
